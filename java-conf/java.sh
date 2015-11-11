@@ -1,0 +1,5 @@
+JAVA_HOME=/usr/local/jdk1.8.0_20
+CLASS_PATH=$JAVA_HOME/lib:$JAVA_HOME/jre/lib
+PATH=$JAVA_HOME/bin:$PATH
+export JAVA_HOME CLASS_PATH PATH
+
